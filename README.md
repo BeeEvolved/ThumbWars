@@ -12,9 +12,9 @@
 
 ## Key Dates
 - **Start Date:** Immediate
-- **fork Deadline:** September 30
-- **No Alterations to fork After:** October 1, 2024
-- **Winners Announced:** November 1, 2024
+- **fork Deadline:** 2/15/2025
+- **No Alterations to fork After:** 2/20/2025
+- **Winners Announced:** 3/1/2025
 
 ## Categories for Judging
 Participants' entries will be evaluated based on the following four categories:
