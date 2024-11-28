@@ -8,7 +8,7 @@
 # ThumbWars: A Open-Source Bitcoin Miner Hardware Competition
 
 ## Competition Overview
-"ThumbWars" is an Open-Source Bitcoin miner hardware competition designed to accelerate innovation in Bitcoin mining technology. Participants are encouraged to develop their own mining hardware and firmware solutions. The competition forking runs until September 30 2024.
+"ThumbWars" is an Open-Source Bitcoin miner hardware competition designed to accelerate innovation in Bitcoin mining technology. Participants are encouraged to develop their own mining hardware and firmware solutions. The competition forking runs until 2/20/2025.
 
 ## Key Dates
 - **Start Date:** Immediate
