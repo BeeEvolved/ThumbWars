@@ -54,7 +54,7 @@ Participants' entries will be evaluated based on the following four categories:
    - Submit a detailed description of their hardware design, including schematics, parts list, and assembly instructions.
    - Firmware should be provided as a downloadable package with documentation.
    - A video demonstration showing the hardware in operation is required.
-   - No alterations can be made to your fork after October 1, 2024.
+   - No alterations can be made to your fork after 2/20/2025.
 
 4. **Judging Process:**
    - An expert panel of judges will evaluate each entry based on the five categories.
@@ -99,7 +99,7 @@ For questions, sponsorship inquiries, or further details, please contact [social
    - Upload a video demonstration showing the hardware in operation.
 
 4. **Final Submission:**
-   - Ensure your submission is complete and no alterations are made after October 1, 2024.
+   - Ensure your submission is complete and no alterations are made after 2/20/2025.
 
 
 
